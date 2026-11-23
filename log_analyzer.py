@@ -18,3 +18,4 @@ print("Failed login attempts:", failed_attempts)
 
 if failed_attempts >= 3:
     print("Alert: Multiple failed login attempts detected!")
+print("Security log analysis completed.")

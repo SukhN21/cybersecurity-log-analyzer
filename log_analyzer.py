@@ -1,4 +1,5 @@
 # Simple security log analysis program
+
 logs = [
     "Login successful",
     "Login failed",
